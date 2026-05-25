@@ -1,3 +1,3 @@
-# A/B Testing Project
+# A/B Testing Project: Instant Booking Experiment
 ## Hypothesis
 
