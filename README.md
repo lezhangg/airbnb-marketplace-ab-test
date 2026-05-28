@@ -1,5 +1,5 @@
 # A/B Testing Project: Instant Booking Experiment
-## Hypothesis
+## Hypothesis-
 
 **Null Hypothesis (H₀):** Instant Book has no effect on booking 
 conversion rate, any difference seen is due to random chance.
